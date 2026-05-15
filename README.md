@@ -1,10 +1,10 @@
 # 👨🏻‍💻About Me:
-Studying Computer Science at October University for Modern Sciences and Arts.
+Studying Software Engineering at October University for Modern Sciences and Arts.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-zaki-48bb35193/) 
 
-## </> Portfolio:
+# </> Portfolio:
 https://marczaki.is-a.dev
 
 # 💻 Tech Stack:
